@@ -1,4 +1,4 @@
-name: mpm-lecture
+conname: mpm-lecture
 channels:
   - conda-forge
 dependencies:

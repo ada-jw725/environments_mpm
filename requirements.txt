@@ -3,3 +3,4 @@ matplotlib>=3.10
 sympy
 scipy
 scikit-image
+pandas
